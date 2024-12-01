@@ -22,7 +22,7 @@ import os
 st.title("Automated Knowledge Graph Construction")
 
 # Initialize Neo4j connection
-graph = Graph("http://localhost:7687", auth=("neo4j", "DBMSDBMS"))
+graph = Graph("http://127.0.0.1:4040", auth=("neo4j", "DBMSDBMS"))
 
 # Function to parse PDF
 def parse_pdf(file):
