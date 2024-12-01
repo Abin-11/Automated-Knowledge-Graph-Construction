@@ -1,0 +1,16 @@
+streamlit
+pdfplumber
+spacy
+py2neo
+networkx
+matplotlib
+bs4
+easyocr
+requests
+pytesseract
+nltk
+gensim
+scikit-learn
+openai
+tiktoken
+pandas
